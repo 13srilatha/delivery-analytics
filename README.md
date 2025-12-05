@@ -31,25 +31,25 @@ delivery-analytics/
 📸 Screenshots (Proof of Queries)
 
 ### Row Count Verification
-![Dataset Size Verification](dashboards/screenshots/Row Count Verification.png)
+(dashboards/screenshots/Row Count Verification.png)
 
 ### Category Performance (Delivery Time) 
-![Pareto Analysis](dashboards/screenshots/Delivery Time.png)
+(dashboards/screenshots/Delivery Time.png)
 
 ### - Day‑of‑Week Trends 
-![Category Revenue](dashboards/screenshots/Day‑of‑Week Trends.png)
+(dashboards/screenshots/Day‑of‑Week Trends.png)
 
 ### - Weather Impact
-![Customer Segmentation](dashboards/screenshots/Weather Impact.png)
+(dashboards/screenshots/Weather Impact.png)
 
 ### KPI Summary
-![Order Status](dashboards/screenshots/KPI Summary.png)
+(dashboards/screenshots/KPI Summary.png)
 
 
 
 📈 Tableau Dashboard
 Interactive dashboard showing category throughput, SLA performance, and weather impact:
-https://public.tableau.com/views/Delivery_Analytics/DeliveryOperationsAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Delivery_Analytics/DeliveryOperationsAnalytics
 
 ✅ Key Insights (from actual query outputs)
 - Dataset size: 43,739 rows, 20 columns after cleaning
